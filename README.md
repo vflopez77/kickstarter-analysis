@@ -22,7 +22,7 @@ This is the underlying pivot table:
 
 ### Analysis of Outcomes Based on Goals
 
-We used COUNTIFS() formulas for the Goal analysis.  By embedding the criteria in the formulas, we are able to look at all the whole data and only count what we want.  Multiple formulas were entered for 12 different goal ranges, and Successful, Failed, and Canceled (sic) outcomes.  We then created a line graph to visualize the Outcomes vs. Goals.
+We used COUNTIFS() formulas for the Goal analysis.  By embedding the criteria in the formulas, we are able to look at all the data and only count what we want.  Multiple formulas were entered for 12 different goal ranges, and Successful, Failed, and Canceled (sic) outcomes.  We then created a line graph to visualize the Outcomes vs. Goals.
 
 This is the visuatlization of Outcomes by Goals:
 
@@ -45,10 +45,10 @@ For the Goals analysis the COUNTIFS() formulas did not use the goal data visible
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+The best part of the year to launch campaigns is May-July.  The worst part of the year to launch campaigns is November-January
 
-- What can you conclude about the Outcomes based on Goals?
+The most successful campaigns set goals of 35,0000 to 50,000.
 
 - What are some limitations of this dataset?
 
-- What are some other possible tables and/or graphs that we could create?
+- Percentages of Successful Outcomes by Month

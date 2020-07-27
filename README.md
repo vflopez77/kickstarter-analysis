@@ -19,6 +19,7 @@ This is the visualization of Outcomes by Launch Date:
 <img src=/Resources/Theater_Outcomes_vs_Launch.png></img>
 
 This is the underlying pivot table:
+
 <img src=/Resources/Launch_Date_Pivot_Table.png></img>
 
 ### Analysis of Outcomes Based on Goals

@@ -42,13 +42,14 @@ For the Goals analysis, the COUNTIFS() formulas did not use the goal data visibl
 
 ## Results
 ### Conclusions about the Theater Outcomes Based on Launch Date analysis:
-- The best part of the year to launch campaigns is May-July.  The worst part of the year to launch campaigns is November-January
+- The best part of the year to launch campaigns is May-July.  
+- The worst part of the year to launch campaigns is November-January
 
 ### Conclusion about the Outcomes based on Goals analysis:
 - The most successful campaigns set goals of 35,0000 to 50,000.
 
 ### Limitations of Dataset:
-- There are different currencies that are not converted to be equivalent.  
+- There are different currencies in goals and pledges that are not converted to be equivalent.
 
 ### Other possible Tables or Graphs:
-- Percentages of Successful Outcomes by Month
+- It would be interesting to add Percentage of Successful Outcomes by Month.

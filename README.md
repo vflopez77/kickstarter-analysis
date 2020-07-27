@@ -16,6 +16,7 @@ We used COUNTIFS() formulas for the Goal analysis.  By embedding the criteria in
 ### Analysis of Outcomes Based on Launch Date
 
 This is the visualization of Outcomes by Launch Date:
+
 <img src=/Resources/Theater_Outcomes_vs_Launch.png></img>
 
 This is the underlying pivot table:
@@ -23,7 +24,13 @@ This is the underlying pivot table:
 <img src=/Resources/Launch_Date_Pivot_Table.png></img>
 
 ### Analysis of Outcomes Based on Goals
+This is the visuatlization of Outcomes by Goals:
+
 <img src=/Resources/Outcomes_vs_Goals.png></img>
+
+This is the underlying Outcomes by Goals data table:
+
+<img src=/Resources/Goal_Outcome_Table.png></img>
 
 The COUNTIFS() formulas did not use the data visible on the sheet as the goal criteria was column was only labels, so there could be errors in the formula criteria which would not be obvious.
 

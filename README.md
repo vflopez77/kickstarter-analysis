@@ -14,7 +14,7 @@ A pivot table was created for the Launch Date analysis.  This allowed us to filt
 We used COUNTIFS() formulas for the Goal analysis.  By embedding the criteria in the formulas, we are able to look at all the whole data and only count what we want.  Multiple formulas were entered for 12 different goal ranges, and Successful, Failed, and Canceled (sic) outcomes.  We then created a line graph to visualize the Outcomes vs. Goals.
 
 ### Analysis of Outcomes Based on Launch Date
-<img src=/Resources/Theater_Outcomes_vs_Goals.png></img>
+<img src=/Resources/Theater_Outcomes_vs_Launch.png></img>
 
 ### Analysis of Outcomes Based on Goals
 <img src=/Resources/Outcomes_vs_Goals.png></img>

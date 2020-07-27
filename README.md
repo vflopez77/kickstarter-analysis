@@ -16,7 +16,7 @@ We used COUNTIFS() formulas for the Goal analysis.  By embedding the criteria in
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
-<img src=“/Resources/Outcomes_vs_Goals.png”></img>
+<img src=/Resources/Outcomes_vs_Goals.png></img>
 
 The COUNTIFS() formulas did not use the data visible on the sheet as the goal criteria was column was only labels, so there could be errors in the formula criteria which would not be obvious.
 

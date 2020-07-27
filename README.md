@@ -32,10 +32,16 @@ This is the underlying Outcomes by Goals data table:
 
 <img src=/Resources/Goal_Outcome_Table.png></img>
 
-The COUNTIFS() formulas did not use the data visible on the sheet as the goal criteria was column was only labels, so there could be errors in the formula criteria which would not be obvious.
+Here is a sample COUNTIFS() formula:
 
+=COUNTIFS(Kickstarter!$R:$R,"plays",Kickstarter!$D:$D,">=1000",Kickstarter!$D:$D,"<5000",Kickstarter!$F:$F,"successful")
 
 ### Challenges and Difficulties Encountered
+
+For the Goals analysis the COUNTIFS() formulas did not use the goal data visible on the sheet as the goal criteria column was only labels.  Each formula had to be individually edited and there could be errors in the formula criteria which would not be obvious.
+
+
+
 
 ## Results
 

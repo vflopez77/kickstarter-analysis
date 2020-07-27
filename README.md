@@ -8,12 +8,9 @@ Using the Kickstarter data, which contains goal, pledged, and outcome data for a
 ### Purpose
 Our client, Louise, wants to better understand if launch date or goals affect outcomes for play campaigns so she can plan her next campaign.
 
-## Analysis and Challenges
-A pivot table was created for the Launch Date analysis.  This allowed us to filter the data for only the theater parent category and breakdown the outcomes by month.  The underlying data of any data point can be seen by double clicking on that cell in the pivot table.  We then graphed the data so see if there were any observable trends.
-
-We used COUNTIFS() formulas for the Goal analysis.  By embedding the criteria in the formulas, we are able to look at all the whole data and only count what we want.  Multiple formulas were entered for 12 different goal ranges, and Successful, Failed, and Canceled (sic) outcomes.  We then created a line graph to visualize the Outcomes vs. Goals.
-
 ### Analysis of Outcomes Based on Launch Date
+
+A pivot table was created for the Launch Date analysis.  This allowed us to filter the data for only the theater parent category and breakdown the outcomes by month.  The underlying data of any data point can be seen by double clicking on that cell in the pivot table.  We then graphed the data so see if there were any observable trends.
 
 This is the visualization of Outcomes by Launch Date:
 
@@ -24,6 +21,9 @@ This is the underlying pivot table:
 <img src=/Resources/Launch_Date_Pivot_Table.png></img>
 
 ### Analysis of Outcomes Based on Goals
+
+We used COUNTIFS() formulas for the Goal analysis.  By embedding the criteria in the formulas, we are able to look at all the whole data and only count what we want.  Multiple formulas were entered for 12 different goal ranges, and Successful, Failed, and Canceled (sic) outcomes.  We then created a line graph to visualize the Outcomes vs. Goals.
+
 This is the visuatlization of Outcomes by Goals:
 
 <img src=/Resources/Outcomes_vs_Goals.png></img>

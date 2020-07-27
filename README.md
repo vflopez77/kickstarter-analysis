@@ -38,17 +38,17 @@ Here is a sample COUNTIFS() formula:
 
 ### Challenges and Difficulties Encountered
 
-For the Goals analysis the COUNTIFS() formulas did not use the goal data visible on the sheet as the goal criteria column was only labels.  Each formula had to be individually edited and there could be errors in the formula criteria which would not be obvious.
-
-
-
+For the Goals analysis, the COUNTIFS() formulas did not use the goal data visible on the sheet as the goal criteria column was only labels.  Each formula had to be individually edited and there could be errors in the formula criteria which would not be obvious.
 
 ## Results
+### Conclusions about the Theater Outcomes Based on Launch Date analysis:
+- The best part of the year to launch campaigns is May-July.  The worst part of the year to launch campaigns is November-January
 
-The best part of the year to launch campaigns is May-July.  The worst part of the year to launch campaigns is November-January
+### Conclusion about the Outcomes based on Goals analysis:
+- The most successful campaigns set goals of 35,0000 to 50,000.
 
-The most successful campaigns set goals of 35,0000 to 50,000.
+### Limitations of Dataset:
+- There are different currencies that are not converted to be equivalent.  
 
-- What are some limitations of this dataset?
-
+### Other possible Tables or Graphs:
 - Percentages of Successful Outcomes by Month
